@@ -1,4 +1,6 @@
-# Tasktrackerapp1
+# Task Tracker Application
+  Version : 1.0.0.0
+  Created with <3 by Soham
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
